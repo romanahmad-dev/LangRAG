@@ -12,7 +12,7 @@
 **A production-ready RAG chatbot built with LangChain, ChromaDB, and free LLMs via OpenRouter.**  
 Upload any PDF or TXT — ask questions grounded strictly in your document.
 
-[🏅 IBM Certificate](https://www.coursera.org/account/accomplishments/verify/XJD5NZZIS29O) · [🌐 Portfolio](https://roman-ai.replit.app) · [💼 GitHub](https://github.com/romanahmad-dev)
+[🏅 IBM Certificate](https://www.coursera.org/account/accomplishments/verify/XJD5NZZIS29O) · [🌐 Portfolio](https://ai-portfolio-display--777romanahmed.replit.app/) · [💼 GitHub](https://github.com/romanahmad-dev)
 
 </div>
 
