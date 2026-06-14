@@ -12,7 +12,7 @@
 **A production-ready RAG chatbot built with LangChain, ChromaDB, and free LLMs via OpenRouter.**  
 Upload any PDF or TXT — ask questions grounded strictly in your document.
 
-[📓 Notebook](notebooks/rag_app.ipynb) · [🏅 IBM Certificate](https://www.coursera.org/account/accomplishments/verify/XJD5NZZIS29O) · [🌐 Portfolio](https://roman-ai.replit.app) · [💼 GitHub](https://github.com/romanahmad-dev)
+[🏅 IBM Certificate](https://www.coursera.org/account/accomplishments/verify/XJD5NZZIS29O) · [🌐 Portfolio](https://roman-ai.replit.app) · [💼 GitHub](https://github.com/romanahmad-dev)
 
 </div>
 
@@ -168,19 +168,6 @@ LLM_MODEL=mistralai/mistral-7b-instruct:free
 
 ---
 
-## 📓 Notebook
-
-[`notebooks/rag_app.ipynb`](notebooks/rag_app.ipynb) walks through every step of the RAG pipeline interactively:
-
-- PDF loading with PyMuPDF
-- LaTeX + plain text chunking
-- HuggingFace embedding generation
-- ChromaDB creation and persistence
-- Similarity search and retrieval
-- Gradio QA interface prototype
-
----
-
 ## 🏅 Certification
 
 Built as part of the **IBM Generative AI Applications with RAG and LangChain** course.
@@ -191,7 +178,7 @@ Built as part of the **IBM Generative AI Applications with RAG and LangChain** c
 
 ## 👨‍💻 Author
 
-**Roman Ahmad** — AI Integration Engineer
+**Roman Ahmad** — AI Engineer
 
 Specialises in LLM orchestration, RAG pipelines, and production AI systems.
 
