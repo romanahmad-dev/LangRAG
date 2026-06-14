@@ -182,7 +182,7 @@ Built as part of the **IBM Generative AI Applications with RAG and LangChain** c
 
 Specialises in LLM orchestration, RAG pipelines, and production AI systems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-roman--ai.replit.app-6366F1?style=for-the-badge)](https://roman-ai.replit.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-roman--ai.replit.app-6366F1?style=for-the-badge)](https://ai-portfolio-display--777romanahmed.replit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-romanahmad--dev-181717?style=for-the-badge&logo=github)](https://github.com/romanahmad-dev)
 
 ---
